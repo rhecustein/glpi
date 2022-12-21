@@ -31,11 +31,16 @@
  * ---------------------------------------------------------------------
  */
 
-$primary: #fec95c;
-$link-color: #007a58;
-$mainmenu_bg: #09a071;
-$mainmenu_fg: #fff;
-$logo: "../pics/logos/WhiteLogo.png";
+$primary: #f4d4ad;
+$secondary: #757575;
+$link-color: #006573;
+$mainmenu_bg: #006573;
+$mainmenu_fg: #f4f6fa;
+$search_bg: #fcf7f1;
+$search_fg: #756d61;
+$logo: "../pics/logos/logo-GLPI-100-white.png";
 $logo_reduced: "../pics/logos/logo-G-100-white.png";
+$badge-bg: #d0d9f0;
+$badge-fg: rgb(58, 73, 102);
 
 @import "../includes/palette_light";
